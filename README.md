@@ -1,2 +1,12 @@
 # Cache-Memory-Hit-Rate-Experiment
-The effect of various cache design parameters has been investigated. It is a lab assignment of Computer Organization Course of Bilkent University.
+The effect of various cache design parameters has been investigated experimentally. 
+
+This is lab assignment 6 of CS224: Computer Organization course of Bilkent University.
+
+Codes has been written in MIPS Assembly language, and can be executed by using MARS MIPS simulator of Missouri State University.
+
+Assignments have been given by Prof. Dr. Fazlı CAN.
+
+Teammate(s): Batuhan Özçömlekçi.
+
+Grade: 100/100
