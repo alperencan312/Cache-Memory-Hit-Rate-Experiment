@@ -5,6 +5,6 @@ This is lab assignment 6 of CS224: Computer Organization course of Bilkent Unive
 
 Codes has been written in MIPS Assembly language, and can be executed by using MARS MIPS simulator of Missouri State University.
 
-Assignments have been given by Prof. Dr. Fazlı CAN.
+Assignment has been given by Prof. Dr. Fazlı CAN.
 
 Grade: 100/100
