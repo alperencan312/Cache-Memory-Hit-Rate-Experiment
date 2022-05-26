@@ -7,6 +7,4 @@ Codes has been written in MIPS Assembly language, and can be executed by using M
 
 Assignments have been given by Prof. Dr. Fazlı CAN.
 
-Teammate(s): Batuhan Özçömlekçi.
-
 Grade: 100/100
